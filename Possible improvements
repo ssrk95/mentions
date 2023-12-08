@@ -1,0 +1,6 @@
+What if I had more time to work on this?
+
+    1. Handling for mentions at any position within the text 
+    2. Css refinements
+            -- Highlighting the mentions
+            -- Dropdown UI refinements, in terms of padding, hover CSS, line height, etc.
